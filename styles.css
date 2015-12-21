@@ -3,10 +3,6 @@ body{
   font-family: Helvetica, sans-serif;
 }
 
-div {
-  border: 1px solid #ddd
-}
-
 .navbar {
   height 70px;
   border-bottom: 1px solid black
@@ -66,7 +62,7 @@ div {
   border: 1px solid gray;
 }
 
-search-continer .search-submit {
+.search-container .search-submit {
   line-height: 34px;
   font-size: 24px;
   border: 1px solid gray;
