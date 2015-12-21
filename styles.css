@@ -70,6 +70,16 @@ body{
   margin-left: 16px;
 }
 
+.post-container{
+  margin: 30px auto;
+  width: 620px;
+}
+
+.post{
+  padding: 40px 80px;
+  border: 2px solid #ddd;
+}
+
 a {
   color: #085394;
   text-decoration: none;
@@ -111,7 +121,7 @@ a {
 
 }
 
-.post .write-comments {
+.post .write-comment {
   float:right;
 }
 
